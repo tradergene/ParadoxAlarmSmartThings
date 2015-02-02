@@ -17,8 +17,8 @@ metadata {
   definition (name: "Virtual Glass Break Sensor", namespace: "com.obycode", author: "obycode") {
     // There is no standard glass break sensor capability, so use motion sensor for now
     capability "Motion Sensor"
-        command "setActive"
-        command "setInactive"
+        command "open"
+        command "close"
   }
 
   simulator {
