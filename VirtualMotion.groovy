@@ -16,8 +16,8 @@
 metadata {
   definition (name: "Virtual Motion Sensor", namespace: "com.obycode", author: "obycode") {
     capability "Motion Sensor"
-        command "setActive"
-        command "setInactive"
+        command "open"
+        command "close"
   }
 
   simulator {
