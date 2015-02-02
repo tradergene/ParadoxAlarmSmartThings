@@ -16,8 +16,8 @@
 metadata {
   definition (name: "Virtual Contact Sensor", namespace: "com.obycode", author: "obycode") {
     capability "Contact Sensor"
-        command "setOpen"
-        command "setClosed"
+        command "open"
+        command "close"
   }
 
   simulator {
