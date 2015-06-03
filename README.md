@@ -1,3 +1,3 @@
 ParadoxAlarmSmartThings was forked from https://github.com/obycode/DSCAlarmSmartThings
 
-See the wiki for details: [Using AlarmThing](https://github.com/obycode/DSCAlarmSmartThings/wiki)
+ParadoxAlarmSmartThings will integrate a Paradox brand alarm system with SmartThings.
